@@ -57,7 +57,7 @@
 7. Then click the play icon ![example graphql response](images/graphQLscreenshot.png)
 
 ### View documentation
-- Then `< Docs` button on the top right of graphiql page ![example documentation](images/graphQLintrospection.png).
+- Then `< Docs` button on the top right of graphiql page to view the documentation as seen here ![example documentation](images/graphQLintrospection.png).
 
 ## Adjusting your query
 - Use the graphiql tool to refine your query and make sure you return the results you want.
