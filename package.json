@@ -1,0 +1,19 @@
+{
+  "name": "graphql-bulk-export-api",
+  "version": "1.0.0",
+  "description": "Example code to request only the fields that you need for Listings and Transactions using GraphQL",
+  "main": "index.js",
+  "repository": "https://github.com/skyslope/graphql-bulk-export-api.git",
+  "author": "ebaah@skyslope.com",
+  "license": "MIT",
+  "private": true,
+  "scripts": {
+  "start": "node index.js"
+  },
+  "dependencies": {
+    "crypt": "^0.0.2",
+    "dotenv": "^8.2.0",
+    "moment": "^2.29.1",
+    "node-fetch": "^2.6.1"
+  }
+}
