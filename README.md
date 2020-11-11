@@ -50,7 +50,7 @@ GraphQL is a query language for APIs and a runtime for fulfilling those queries 
     }
     ```
 
-6. If needed, you can also add variable object:
+6. If needed, you can also add a variable object:
     ```
     {
         "createdAfter": "2020-01-23", 
